@@ -1,2 +1,6 @@
 and now for something completely different
+<<<<<<< HEAD
 One More Line
+=======
+one more line, but different
+>>>>>>> myconflict
