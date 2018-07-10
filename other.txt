@@ -4,3 +4,4 @@ One More Line
 =======
 one more line, but different
 >>>>>>> myconflict
+added
