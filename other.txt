@@ -3,5 +3,7 @@ and now for something completely different
 One More Line
 =======
 one more line, but different
+<<<<<<< HEAD
 >>>>>>> myconflict
-added
+ADDed
+>>>>>>> myconflict
